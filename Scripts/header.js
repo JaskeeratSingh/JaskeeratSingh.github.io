@@ -8,7 +8,6 @@ const media = [
 map(m => PIXI.Texture.fromImage(m));
 
 
-
 class Waaave {
   constructor() {
     this.container = null;

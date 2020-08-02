@@ -1,0 +1,305 @@
+
+
+@media only screen and (max-width: 1292px){
+    .logo{
+        position: absolute;
+        height: 500px;
+        width: 500px;
+        float: left;
+        top: -10%;
+        left: 5%;
+        z-index: 9;
+    }
+    .btn,.btnn{
+        transform: scale(0.8);
+    }
+    .btn:link,
+    .btn:visited {
+        position: absolute;
+        display: inline-block;
+        margin-right: 0px;
+        top: 75%;
+        right: 11.3%;
+        z-index: 9;
+
+    }
+    .btnn:link,.btnn:visited {
+        position: absolute;
+        top: 65%;
+        right: 10%;
+        margin-right: 0px;
+        z-index: 9;
+
+    }
+}
+
+
+@media only screen and (max-width: 1168px){
+    .title{
+        left: 56%;
+    }
+    .logo{
+        position: absolute;
+        height: 450px;
+        width: 450px;
+        float: left;
+        top: -3%;
+        left: 5%;
+        z-index: 9;
+    }
+    .btn,.btnn{
+        transform: scale(0.8);
+    }
+    .btn:link,
+    .btn:visited {
+        position: absolute;
+        display: inline-block;
+        margin-right: 0px;
+        top: 75%;
+        right: 11.3%;
+        z-index: 9;
+
+    }
+    .btnn:link,.btnn:visited {
+        position: absolute;
+        top: 65%;
+        right: 10%;
+        margin-right: 0px;
+        z-index: 9;
+
+    }
+
+}
+@media only screen and (max-width: 1049px){
+    .me{
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        left: 0%;
+        bottom: 0%;
+    }
+    .logo{
+        position: absolute;
+        height: 400px;
+        width: 400px;
+        float: left;
+        top: 0%;
+        left: 5%;
+        z-index: 9;
+    }
+    .btn,.btnn{
+        transform: scale(0.8);
+    }
+    .btn:link,
+    .btn:visited {
+        position: absolute;
+        display: inline-block;
+        margin-right: 0px;
+        top: 75%;
+        right: 11.3%;
+        z-index: 9;
+
+    }
+    .btnn:link,.btnn:visited {
+        position: absolute;
+        top: 65%;
+        right: 10%;
+        margin-right: 0px;
+        z-index: 9;
+
+    }
+
+}
+
+@media only screen and (max-width: 962px){
+    .me{
+        position: absolute;
+        width: 400px;
+        height: 400px;
+        left: 0%;
+        bottom: 0%;
+    }
+
+}
+
+@media only screen and (max-width: 846px){
+    .logo{
+        position: absolute;
+        height: 400px;
+        width: 400px;
+        float: left;
+        top: 0%;
+        left: 25%;
+        z-index: 9;
+    }
+    .main-nav {
+
+        position: absolute;
+        left: 25%;
+        margin-top: 18px;
+        z-index: 10;
+
+    }
+    .btn,.btnn{
+        transform: scale(0.6);
+    }
+    .btn:link,
+    .btn:visited {
+        position: absolute;
+        display: inline-block;
+        margin-right: 0px;
+        top: 75%;
+        right: 11.3%;
+        z-index: 9;
+
+    }
+    .btnn:link,.btnn:visited {
+        position: absolute;
+        top: 75%;
+        right: 60%;
+        margin-right: 0px;
+        z-index: 9;
+
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+
+    .btn,.btnn{
+        transform: scale(0.6);
+    }
+    .btn:link,
+    .btn:visited {
+        position: absolute;
+        display: inline-block;
+        margin-right: 0px;
+        top: 75%;
+        right: 11.3%;
+        z-index: 9;
+    }
+
+    .btnn:link,.btnn:visited {
+        position: absolute;
+        top: 75%;
+        right: 50%;
+        margin-right: 0px;
+        z-index: 9;
+    }
+    .btn-half:link,
+    .btn-half:visited{
+        background-color: #0070f3;
+        color: #fff;
+        border: 1px solid transparent;
+
+    }
+
+
+
+}
+@media only screen and (max-width: 698px){
+
+
+}
+
+@media only screen and (max-width: 667px){
+
+
+}
+
+@media only screen and (max-width: 656px){
+
+
+}
+@media only screen and (max-width: 641px){
+
+
+
+}
+@media only screen and (max-width: 620px){
+
+
+}
+@media only screen and (max-width: 605px){
+
+}
+
+@media only screen and (max-width: 550px){
+    .main-nav {
+
+        position: absolute;
+        left: 10%;
+        margin-top: 18px;
+        z-index: 10;
+
+    }
+    .logo{
+        position: absolute;
+        height: 400px;
+        width: 400px;
+        float: left;
+        top: 0%;
+        left: 10%;
+        z-index: 9;
+    }
+    .title{
+        left: 40%;
+    }
+
+}
+
+@media only screen and (max-width: 528px){
+     .btn,.btnn{
+        transform: scale(0.6);
+    }
+    .btn:link,
+    .btn:visited {
+        position: absolute;
+        display: inline-block;
+        margin-right: 0px;
+        top: 80%;
+        right: 29%;
+        z-index: 9;
+    }
+
+    .btnn:link,.btnn:visited {
+        position: absolute;
+        top: 70%;
+        right: 25%;
+        margin-right: 0px;
+        z-index: 9;
+    }
+    .btn-half:link,
+    .btn-half:visited{
+        background-color: #0070f3;
+        color: #fff;
+        border: 1px solid transparent;
+
+    }
+
+}
+
+@media only screen and (max-width: 499px){
+
+}
+@media only screen and (max-width: 480px){
+    .title{
+        left: 30%;
+    }
+    .main-nav{
+        left: 5%;
+    }
+
+}
+@media only screen and (max-width: 472px){
+
+}
+@media only screen and (max-width: 449px){
+
+}
+@media only screen and (max-width: 444px){
+
+}
+
+@media only screen and (max-width: 430px){
+}

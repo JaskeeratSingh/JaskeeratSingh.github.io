@@ -106,14 +106,20 @@ h4:after{
 
 .title {
     position: absolute;
-    left: 50%;
-    top: 46%;
-    transform: translateX(-50%) translateY(-30%);
+    left: 60%;
+    top: 100%;
+    transform: translateX(-50%);
     font-family: "Montserrat";
     text-align: center;
     width: 60%;
     z-index: 4;
 }
+.me{
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+
 .title h1 {
     position: relative;
     color: #212121;
@@ -373,7 +379,7 @@ border-right: 1px solid #fff;
     margin-right: 30px;
     margin-top: 50px;
     top: 75%;
-    right: 5%;
+    right: 3%;
     z-index: 9;
 
 }
@@ -392,7 +398,7 @@ border-right: 1px solid #fff;
     margin-right: 30px;
     margin-top: 50px;
     top: 75%;
-    right: 20%;
+    right: 18%;
     z-index: 9;
 
 }
@@ -430,7 +436,6 @@ border-right: 1px solid #fff;
     color: #0070f3;
 
 }
-
 
 
 .btn-half:hover,
@@ -475,7 +480,7 @@ header{
     text-justify: auto;
 }
 span{
-   font-weight: 500;
+    font-weight: 500;
     color: #0070f3;
 }
 
@@ -496,7 +501,7 @@ ion-icon[name="open-outline"]{
     margin-top: 32%;
 }
 .section-photos{
-   background-color: white;
+    background-color: white;
 }
 
 .photos-showcase{ 
